@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Eggs.
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      The popular food of choice. For breakfast, for lunch, for dinner, Eggs are
+      for all and all are for eggs.
     actions:
       - label: Learn More
         url: /features

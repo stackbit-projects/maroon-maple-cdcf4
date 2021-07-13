@@ -54,7 +54,7 @@ sections:
           The egg opens up hidden and unknown abilities in you and allows you to
           become the true egg you are.
         align: left
-        image: /images/poweregg.jpg
+        image: /images/download (1).jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:

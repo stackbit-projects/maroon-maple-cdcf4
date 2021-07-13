@@ -49,7 +49,7 @@ sections:
             url: /features
             style: secondary
         title: Pet Eggs
-      - title: Feature 3
+      - title: The hidden powers in an egg
         content: >
           The egg opens up hidden and unknown abilities in you and allows you to
           become the true egg you are.

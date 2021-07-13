@@ -11,7 +11,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image_alt: Hero placeholder image
+    image_alt: Egg
     image_position: right
     has_background: true
     background:

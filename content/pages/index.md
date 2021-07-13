@@ -37,10 +37,9 @@ sections:
           - label: How could I be so blind
             url: /features
             style: secondary
-      - content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - content: >
+          Here at the eggsite we have lovely little critters around the studio
+          we call "petto eggo".
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image

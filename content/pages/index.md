@@ -26,7 +26,7 @@ sections:
       background_image_repeat: no-repeat
   - type: features_section
     features:
-      - title: Feature 1
+      - title: Why eggs are the best.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

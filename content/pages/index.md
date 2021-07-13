@@ -21,7 +21,7 @@ sections:
       background_color: white
       background_image: /images/egg.jpg
       background_image_opacity: 20
-      background_image_size: contain
+      background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
     title: Features

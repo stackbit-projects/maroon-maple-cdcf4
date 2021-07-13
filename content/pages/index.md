@@ -30,7 +30,7 @@ sections:
         content: |
           Why eggs are the best thing ever to come before man.
         align: left
-        image: images/feature.svg
+        image: /images/download.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:

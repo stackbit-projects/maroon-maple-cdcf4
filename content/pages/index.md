@@ -12,7 +12,7 @@ sections:
         url: '#'
         style: primary
         new_window: true
-        no_follow: false
+        no_follow: true
         type: action
     align: center
     image_alt: Egg

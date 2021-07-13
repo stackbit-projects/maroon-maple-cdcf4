@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: no-repeat
   - type: features_section
-    title: Features
+    title: What the Eggsite offers
     features:
       - title: Feature 1
         content: >-

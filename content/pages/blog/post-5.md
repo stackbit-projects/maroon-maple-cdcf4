@@ -9,7 +9,7 @@ tags:
   - Netlify
 image: images/5.png
 image_alt: Post 5 placeholder image
-excerpt: eggeggegg
+excerpt: eggeggeggeggeggeggegg
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'

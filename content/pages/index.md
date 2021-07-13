@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       The popular food of choice. For breakfast, for lunch, for dinner, Eggs are
       for all and all are for eggs.
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image_alt: Egg
     image_position: right

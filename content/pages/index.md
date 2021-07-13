@@ -48,6 +48,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        title: Pet Eggs
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus

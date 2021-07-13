@@ -28,7 +28,7 @@ sections:
     features:
       - title: Why eggs are the best.
         content: |
-          Why **eggs** are the best things ever to come before man. 
+          Why eggs are the best things ever to come before man.
         align: left
         image: /images/download.jpg
         image_alt: Feature 1 placeholder image

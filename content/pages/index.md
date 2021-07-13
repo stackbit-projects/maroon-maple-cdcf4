@@ -7,7 +7,13 @@ sections:
       The popular food of choice. For breakfast, for lunch, for dinner, Eggs are
       for all and all are for
       eggs.                                                                                                                                                                                   
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     align: center
     image_alt: Egg
     image_position: right

@@ -41,7 +41,7 @@ sections:
           Here at the eggsite we have lovely little critters around the studio
           we call "petto eggo" or in the non-latin form: Pet Eggs.
         align: left
-        image: images/feature.svg
+        image: /images/pet egg.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:

@@ -37,8 +37,7 @@ sections:
           - label: How could I be so blind
             url: /features
             style: secondary
-      - title: Feature 2
-        content: >-
+      - content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.

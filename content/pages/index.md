@@ -9,7 +9,7 @@ sections:
       eggs.                                                                                                                                                                                   
     actions:
       - label: Wonderful
-        url: '#'
+        url: 'https://thegoodeggfellas.co.uk/180-large-gold-rangers/'
         style: primary
         new_window: true
         no_follow: true

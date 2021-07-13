@@ -5,7 +5,8 @@ sections:
     title: Eggs.
     subtitle: >-
       The popular food of choice. For breakfast, for lunch, for dinner, Eggs are
-      for all and all are for eggs.
+      for all and all are for
+      eggs.                                                                                                                                                                                   
     actions: []
     align: left
     image_alt: Egg

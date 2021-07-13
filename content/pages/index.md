@@ -8,7 +8,7 @@ sections:
       for all and all are for
       eggs.                                                                                                                                                                                   
     actions:
-      - label: lorem-ipsum
+      - label: Wonderful
         url: '#'
         style: primary
         new_window: false

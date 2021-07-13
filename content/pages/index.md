@@ -8,7 +8,7 @@ sections:
       for all and all are for
       eggs.                                                                                                                                                                                   
     actions: []
-    align: left
+    align: center
     image_alt: Egg
     image_position: right
     has_background: true

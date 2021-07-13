@@ -34,7 +34,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: How could I be so blind
             url: /features
             style: secondary
       - title: Feature 2

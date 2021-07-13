@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Eggs.
-    subtitle: >-
-      The popular food of choice. For breakfast, for lunch, for dinner, Eggs are
-      for all and all are for eggs.
+    subtitle: "The popular food of choice. For breakfast, for lunch, for dinner,\_ \_ \_ \_ \_ \_ \_ \_ \_ Eggs are for all and all are for eggs."
     actions:
       - label: Learn More
         url: /features
